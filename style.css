@@ -87,7 +87,8 @@ header {
 .experience h2, 
 .projects h2, 
 .habilities h2, 
-.education h2 {
+.education h2,
+.portfolio h2 {
   color: #ffd000;
 }
 
